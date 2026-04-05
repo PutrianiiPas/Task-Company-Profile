@@ -21,10 +21,10 @@ REST API CRUD sederhana menggunakan ExpressJS dan PostgreSQL untuk tabel `users`
 
 ## Run Project
 ```bash
-npm init
+npm init -y
 npm install express pg
-node run express.js
+node server.js
 ```
 
 ## Database
-Gunakan file `db.sql` dari tugas sebelumnya.
+Gunakan file `database.sql` dari tugas sebelumnya.
